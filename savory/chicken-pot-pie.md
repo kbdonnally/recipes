@@ -22,7 +22,7 @@
 2. In a saucepan, combine chicken, carrots, peas, and celery. Add water to cover and boil for 15 minutes. Remove from heat, drain, and set aside.
 3. In the saucepan over medium heat, cook onions in butter until soft and translucent. Stir in flour, salt, pepper, and celery seed. Slowly stir in chicken broth and milk. Simmer on medium-low heat until thick. Remove from heat and set aside.
 4. Place the chicken mixture in bottom pie crust. Pour hot liquid mixture over. Cover with top crust, seal edges, and cut away excess dough. Make several small slits in the top to allow steam to escape.
-5. Bake in the preheated oven for 30 to 35 minutes, or until pastry is golden and filling is bubbly. Cool for 10 minutes before serving.
+5. Bake in the preheated oven for **30 to 35 minutes**, or until pastry is golden and filling is bubbly. Cool for 10 minutes before serving.
 
 ***
 
