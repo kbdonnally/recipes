@@ -2,56 +2,39 @@
 
 ## Ingredients:
 
-### Paneer Tikka
+### Marinade:
 
-- 250g paneer
-- 3 tablespoons yogurt (Greek)
-- 1 teaspoon finely chopped ginger
-- 1 teaspoon finely chopped garlic
-- 1 teaspoon coriander powder
-- 1/2 teaspoon garam masala
-- 1/2 teaspoon paprika powder
-- 1/4 teaspoon red chili powder
+- 1 package of paneer, cubed
+- 1 cup plain full-fat yogurt
+- 1 tsp turmeric
+- 2 tsp garam masala
+- 1 tbs lemon juice
+- 2 tsp black pepper
+- 1/4 tsp dried ginger
 
-### Masala/Curry
+### Sauce:
 
-- 1 large onion, roughly chopped
-- 3-4 medium tomatoes, roughly chopped
-- 1/2 teaspoon cumin seeds
-- 1 cinnamon stick
-- 3-4 garlic cloves, crushed
-- 1/2 inch ginger, cut in small pieces
-- 1 1/2 teaspoon curry powder
-- 1 tablespoon sugar
-- 2 tablespoons cream
-- 2 tablespoons chopped cilantro (coriander) leaves, plus more for garnish
-- 1 cup water, or as required
-- 1 tablespoon oil
-- 1 tablespoon salted butter
-- salt to taste
+- 4 tbs ghee or butter (1/4 cup)
+- 1 medium white onion, diced
+- 1-2 serrano chiles, minced
+- 5 garlic cloves, minced
+- 1 1/2 tbs fresh ginger, grated
+- 3 1/2 tsp garam masala
+- 1 tsp paprika
+- 1 15 oz can tomato sauce
+- 1 green bell pepper, cut into strips
+- 1 tbs dried fenugreek leaves
+- lots of salt
+- 2 cups heavy cream or half & half (or coconut cream!)
 
 ## Directions:
 
-### Paneer Tikka
-
-1. Cut paneer into small cubes, add in chopped ginger, garlic, coriander powder, garam masala powder, paprika powder, salt, and red chili powder.
-2. Add in the yogurt and mix until all paneer pieces are well-coated with the spices and yogurt.
-3. Cover and keep this marinated paneer in the refrigerator for 30-40 minutes.
-
-### Masala/Curry
-
-1. Heat 1 tbsp of butter and 1 tbsp of oil in a pan. Once hot, add cinnamon stick and cumin seeds.
-2. Once the seeds crackle, add the chopped onions, crushed garlic cloves, and chopped ginger. Fry until onions turn golden brown in color.
-3. Once the onions are done, add the tomatoes and curry powder and mix. Also add the salt and sugar.
-4. Cook the tomatoes on medium flame until they are soft, around 6-7 minutes
-5. Once mixture is cooked, switch off flame and allow it to cool a bit. Pour the mixture into a blender and puree it. Set aside.
-6. Roast the marinated paneer until golden brown in color from both sides.
-7. Pour the pureed masala into a wok/kadhai and add water to it. Stir and add cream and chopped coriander leaves.
-8. Cover and cook for 4-5 minutes on medium-low flame.
-9. Add the roasted paneer pieces, let it simmer for 2-3 minutes.
-10. Switch off flame and garnish with chopped coriander leaves and cream.
-11. Serve hot with butter naan or any bread of your choice.
+1. **Marinate the paneer.** Combine all marinade ingredients besides paneer in medium bowl and stir well. Add paneer cubes and toss to coat. Cover and refrigerate at least one hour, up to overnight.
+2. Heat the butter in large skillet over medium heat. Add onion and cook until softened, about 5 minutes. Add serrano chiles, garlic, ginger, and reduce heat to medium-low. Cook, stirring occasionally, until a nice toffee color, about 20 minutes, adding a few drops of water if drying out and sticking.
+3. Stir in the tomato sauce, then transfer to blender and blend until smooth. Return sauce to skillet. Add sliced bell pepper, fenugreek, and salt.
+4. Meanwhile, **cook the paneer**. Preheat broiler and place a wire rack over a baking sheet. Place paneer pieces on top of the rack. Broil, turning occasionally until browned in spots and cooked through, about 8 minutes total.
+5. Simmer for **30 minutes** on medium-low heat or until thick and more like a paste than a sauce. Then, add the heavy cream and stir until very smooth. Taste and correct seasonings. Add chicken, stir well, and serve over basmati rice and naan.
 
 ***
 
-Source: [Paneer Tikka Masala - Cook With Manali](https://www.cookwithmanali.com/paneer-tikka-masala/)
+*Source: [Best Ever Restaurant Style Chicken Tikka Masala](https://40aprons.com/restaurant-style-chicken-tikka-masala-paleo-whole30/)*
