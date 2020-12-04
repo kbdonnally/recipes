@@ -1,6 +1,21 @@
 # Food Exchange List
 
-## Vegetables
+## Table of Contents
+
+- [Vegetables](#veggies)
+- [Dairy](#dairy)
+- [Very Lean Protein](#verylean)
+- [Fruits](#fruits)
+- [Lean Protein](#lean)
+- [Medium-Fat Proteins](#medfat)
+- [Starches](#starches)
+- [Fats](#fats)
+
+<br/>
+
+***
+
+<h2 id="veggies">Vegetables</h2>
 
 *Contain 25 calories & 5 grams carbohydrates.*
 
@@ -10,7 +25,11 @@ Measurement | Ingredient
 1 cup | raw veggies or salad greens
 1/2 cup | veggie juice
 
-## Dairy
+<br/>
+
+***
+
+<h2 id="dairy">Dairy</h2>
 
 *Fat-free and very low-fat milk contain 90 calories per serving.*
 
@@ -20,7 +39,11 @@ Measurement | Ingredient
 3/4 cup | yogurt, plain nonfat or low-fat
 1 cup | yogurt, *artificially* sweetened
 
-## Very Lean Protein
+<br/>
+
+***
+
+<h2 id="verylean">Very Lean Protein</h2>
 
 *Very lean proteins have 35 calories and 1 gram of fat per serving.*
 
@@ -36,7 +59,11 @@ Measurement | Ingredient
 1 oz | fat-free cheese
 1/2 cup | beans, cooked (including lentils). These count as 1 starch/bread and 1 very lean protein
 
-## Fruits
+<br/>
+
+***
+
+<h2 id="fruits">Fruits</h2>
 
 *Fruits contain 15 grams of carbohydrates and 60 calories per serving.*
 
@@ -53,7 +80,11 @@ Measurement | Ingredient
 4oz | unsweetened juice
 4tsp | jelly or jam
 
-## Lean Protein
+<br/>
+
+***
+
+<h2 id="lean">Lean Protein</h2>
 
 *Lean protein choices have 55 calories and 2-3 grams of fat per serving.*
 
@@ -73,7 +104,11 @@ Measurement | Ingredient
 
 * *Limit to 1-2 times per week.*
 
-## Medium-Fat Protein
+<br/>
+
+***
+
+<h2 id="medfat">Medium-Fat Proteins</h2>
 
 *These have 75 calories and 5 grams of fat per serving.*
 
@@ -88,7 +123,11 @@ Measurement | Ingredient
 
 ** *Choose these very infrequently.*
 
-## Starches
+<br/>
+
+***
+
+<h2 id="starches">Starches</h2>
 
 *Starches contain 15 grams of carbohydrates and 80 calories per serving.*
 
@@ -110,7 +149,11 @@ Measurement | Ingredient
 3/4 oz | pretzels
 3 cups | popcorn, hot air popped
 
-## Fats
+<br/>
+
+***
+
+<h2 id="fats">Fats</h2>
 
 *Fats contain 45 calories and 5 grams of fat per serving.*
 
