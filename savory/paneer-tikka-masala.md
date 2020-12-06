@@ -30,7 +30,7 @@
 ## Directions:
 
 1. **Marinate the paneer.** Combine all marinade ingredients besides paneer in medium bowl and stir well. Add paneer cubes and toss to coat. Cover and refrigerate at least one hour, up to overnight.
-2. Heat the butter in large skillet over medium heat. Add onion and cook until softened, about 5 minutes. Add serrano chiles, garlic, ginger, and reduce heat to medium-low. Cook, stirring occasionally, until a nice toffee color, about 20 minutes, adding a few drops of water if drying out and sticking.
+2. Heat the butter in large skillet over medium heat. Add onion and cook until softened, about 5 minutes. Add serrano chiles, garlic, ginger, and reduce heat to medium-low. Cook, stirring occasionally, until a nice toffee color, about 20 minutes, adding a few drops of water if drying out and sticking. Add garam masala and paprika. 
 3. Stir in the tomato sauce, then transfer to blender and blend until smooth. Return sauce to skillet. Add sliced bell pepper, fenugreek, and salt.
 4. Meanwhile, **cook the paneer**. Preheat broiler and place a wire rack over a baking sheet. Place paneer pieces on top of the rack. Broil, turning occasionally until browned in spots and cooked through, about 8 minutes total.
 5. Simmer for **30 minutes** on medium-low heat or until thick and more like a paste than a sauce. Then, add the heavy cream and stir until very smooth. Taste and correct seasonings. Add chicken, stir well, and serve over basmati rice and naan.
