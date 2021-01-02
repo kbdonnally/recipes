@@ -11,7 +11,7 @@
 
 ## Directions
 
-1. Preheat oven to 435 degrees F and set rack to bottom position. Line baking sheet with parchment paper. (Not foil! It'll stick.)
+1. Preheat oven to 425 degrees F and set rack to bottom position. Line baking sheet with parchment paper. (Not foil! It'll stick.)
 2. Scrub the potatoes and dry them well, then dice into 1 inch pieces.
 3. In medium bowl, combine the potatoes, olive oil, salt, and garlic powder. Toss well to coat.
 4. Place the potatoes on the parchment paper and roast for 10 minutes. Flip the potatoes and return to oven for another 10 minutes.
