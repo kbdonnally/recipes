@@ -18,7 +18,7 @@
 ## Directions:
 
 1. Salt pasta cooking water and heat. While heating, slice peppers. If not all peppers are sliced by time of boil, turn heat down while you finish.
-2. In large saute pan, add bit of olive oil. Turn burner to medium-high or high. Heat up oil a bit. (Goal isn't to cook the peppers, it's to warm them and brown them a bit.)
+2. In large saute pan, add bit of olive oil. Turn burner to medium-high or high. Heat up oil a bit. (Goal isn't to cook the peppers, it's to warm them and brown them a bit.) *Note: you can sauté an onion here, too!*
 3. Toss in peppers and crushed garlic. No lid because texture of peppers will change and you want them to still have a crunch. Stir frequently.
 4. Remove peppers from stove to prevent from cooking further. *Put them on a paper plate if you want to use the same pan for making the sauce.*
 5. Turn burner under the pasta pot to high and finish bringing water to rolling boil.
